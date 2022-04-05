@@ -1,0 +1,24 @@
+
+.bat-buoc::after{
+    color: brown;
+    content: '*';
+    font-size: 2px;
+}
+.margin-top{
+    margin-top: 6px;
+}
+.can-giua{
+    text-align: center;
+}
+.can-trai{
+    text-align: left;
+}
+.vien{
+    border: 0px darkgreen dashed;
+}
+form{
+    margin: auto ;
+    width: 500px ;
+}
+
+
